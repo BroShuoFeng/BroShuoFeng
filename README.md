@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BroShuoFeng
-- 👀 I’m interested in constitutive modelling and numerical simulations, including FEM and DEM, of geomechanics.
+- 👀 I’m interested in constitutive development and numerical implementation of geomechanics.
 - 🌱 I’m currently learning numerical implementation of advanced constitutive models, especially the ones applied to cyclic loading conditions.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on boundary value problem solver, including FEM and DEM
 - 📫 How to reach me ...
 
 <!---
